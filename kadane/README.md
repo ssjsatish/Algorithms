@@ -1,0 +1,1 @@
+Kadane algorithm is used to find the maximum sum of a contiguous sub array
