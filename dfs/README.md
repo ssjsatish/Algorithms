@@ -1,1 +1,1 @@
-This talks about the depth first search algorithm in graph
+This talks about the depth first search algorithm in graph. Any changes made will be updated
