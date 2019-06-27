@@ -21,7 +21,7 @@ class Solution
         {
             for (int j = 1; j <=4; j++)
             {
-                temp = matrix[i - 1][j + 1]   + matrix[i + 1][j + 1] + matrix[i - 1][j]     + matrix[i][j] + matrix[i + 1][j] + matrix[i - 1][j - 1] + matrix[i + 1][j - 1];
+                temp = matrix[i - 1][j + 1]+ matrix[i + 1][j + 1] + matrix[i - 1][j] + matrix[i][j] + matrix[i + 1][j] + matrix[i - 1][j - 1] + matrix[i + 1][j - 1];
             }
             max = Math.Max(max, temp);            
         }
